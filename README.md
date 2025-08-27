@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Leonardo and I'm a Java programer</h3>
+<h3 align="left">My name is Leonardo and I'm a Java developer</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2012.<br>📚 I currently work as a Java Spring developer at a small software company.<br>👯 looking to collaborate on project to reverse engineer old or deactivated game servers to create open sorce versions.<br><br>📄 I've been studying information security since I was young 😏... And programming for a shorter period of time.</p>
+<p align="left">✨ Creating bugs since 2012.<br>📚 I currently work as a Java Spring developer at a small software company.<br><br>👾 I'm a JAVA developer. But my hobby is reverse engineering things and bringing old systems back to life.</p>
 
 ###
 
