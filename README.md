@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13d6123a-061f-43c8-b6b8-2cc15e8d995a" width="500" height="300" alt="coding gif" />
+  <img src="https://github.com/user-attachments/assets/13d6123a-061f-43c8-b6b8-2cc15e8d995a" width="800" height="500" alt="coding gif" />
 </p>
 
 <h1 align="center">Hey 🍹🗿, Hello</h1>
