@@ -27,6 +27,10 @@
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original-wordmark.svg" height="40" alt="spring boot" />
   <img width="12"/>
+  <img src="https://media.discordapp.net/attachments/1122605734115410144/1416988642802405477/1658763190886-removebg-preview.png?ex=68f50342&is=68f3b1c2&hm=d6fb0bd50a84bad935ad03b24abb34bb26966aa3c029197f9e746f0acd9d8043" height="40" alt="Assembly" />
+  <img width="12"/>
+  <img src="https://cdn.discordapp.com/attachments/1122605734115410144/1429286884705828904/Netty-1-removebg-preview.png?ex=68f596a4&is=68f44524&hm=b10189baec4c2507d4e216c9c84edd4969b4878c0e8aac034425c3066858b0bf" height="40" alt="Assembly" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
@@ -41,9 +45,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img width="12"/>
-  <img src="https://cdn.discordapp.com/attachments/1122605734115410144/1416989359973994607/images-removebg-preview1.png?ex=68c8d9ad&is=68c7882d&hm=ff81d84ed7e2d7d9eafa81fa3e99f5875c3cf4a0ff12910fba19c2a0609b92a3&" height="40" alt="C" />
-  <img width="12"/>
-  <img src="https://cdn.discordapp.com/attachments/1122605734115410144/1416988642802405477/1658763190886-removebg-preview.png?ex=68c8d902&is=68c78782&hm=3dc44cac3e78f72298c284d9c1b65c90488afd8d2ce9db33e5998c763928c841&" height="40" alt="Assembly" />
 </div>
 
 ---
