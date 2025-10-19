@@ -12,7 +12,8 @@
 
 ### 🧠 About me
 
-- 🧙‍♂️ I currently work as a software engineer at a small software company.
+<!--- 🧙‍♂️ I currently work as a software engineer at a small software company.-->
+- 🧙‍♂️ Mago dos Compiuter.
 - 💻 Java Developer.
 - 🍃 Back-end architect with a Spring Boot core, primarily working with MVC, Security, Cloud, Kafka and Data JPA.
 - 🔓 Cryptography and computational mathematics Geek.
@@ -40,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12"/>
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" height="40" alt="MariaDB" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12"/>
