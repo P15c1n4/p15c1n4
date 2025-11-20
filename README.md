@@ -30,7 +30,7 @@
   <img width="12"/>
   <img src="https://avatars.githubusercontent.com/u/473791" height="40" alt="Netty FrameWork" />
   <img width="12"/>
-  <img src="https://media.discordapp.net/attachments/1122605734115410144/1416988642802405477/1658763190886-removebg-preview.png?ex=68f50342&is=68f3b1c2&hm=d6fb0bd50a84bad935ad03b24abb34bb26966aa3c029197f9e746f0acd9d8043" height="40" alt="Assembly" />
+  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="43" alt="Assembly" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12"/>
