@@ -64,7 +64,16 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P15c1n4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P15c1n4&theme=tokyonight&hide_border=true" width="48%" />
+
+### 🚀 Minhas Estatísticas
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P15c1n4&theme=tokyonight" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P15c1n4&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P15c1n4&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P15c1n4&theme=tokyonight" width="49%">
+
+<!--![Metrics](https://metrics.lecoq.io/P15c1n4?template=terminal&languages=1&followup=1&lines=1) -->
+
 </div>
 ---
