@@ -65,8 +65,6 @@
 ### 📈 GitHub Stats
 <div align="center">
 
-### 🚀 Minhas Estatísticas
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P15c1n4&theme=tokyonight" width="98%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P15c1n4&theme=tokyonight" width="49%" />
