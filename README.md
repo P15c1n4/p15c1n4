@@ -8,7 +8,7 @@
   
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Reverse+engineering+junkie;&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Reverse+engineering+junkie;&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=30" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 </div>
 
@@ -29,29 +29,29 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original-wordmark.svg" height="50" alt="Spring Boot FrameWork" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" height="45" alt="Spring Boot FrameWork" title="Spring Boot FrameWork" />
   <img width="12"/>
-  <img src="https://avatars.githubusercontent.com/u/473791" height="50" alt="Netty FrameWork" />
+  <img src="https://avatars.githubusercontent.com/u/473791" height="45" alt="Netty FrameWork" title="Netty FrameWork" />
   <img width="12"/>
-  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="53" alt="Assembly" />
+  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="48" alt="Assembly" title="Assembly" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" height="50" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" height="45" alt="Bash" title="Bash" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original-wordmark.svg" height="50" alt="MariaDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original.svg" height="45" alt="MariaDB" title="MariaDB" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" title="SQL Server" />
   <img width="12"/>
 </div>
 
@@ -59,8 +59,8 @@
 ### 💻 IDEs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" title="IntelliJ IDE" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" title="NotePad++" />
 </p>
 
 ---
