@@ -67,7 +67,8 @@
 ### 📈 GitHub Stats
 <div align="l">
   <div width="98%" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p15c1n4&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=p15c1n4&layout=compact&langs_count=8&stats_format=percentages&theme=tokyonight" width="49%" title="Top Languages (%)" />
+
   </div>
 
   --- 
