@@ -59,8 +59,10 @@
 ### 💻 IDEs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" title="IntelliJ IDE" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" title="NotePad++" />
+  <!--<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" title="IntelliJ IDE" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" title="NotePad++" /> -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=00eaff"/> 
+  <img src="https://img.shields.io/badge/Notepad++-0A0A0A?style=for-the-badge&logo=notepadplusplus&logoColor=7f5af0"/>
 </p>
 
 ---
