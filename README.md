@@ -67,18 +67,9 @@
 ### 📈 GitHub Stats
 <div align="l">
   <div width="98%" align="left">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=p15c1n4&layout=compact&langs_count=8&stats_format=percentages&theme=tokyonight" width="49%" title="Top Languages (%)" />
-
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=p15c1n4&layout=compact&langs_count=8&stats_format=percentages&hide_border=true&theme=tokyonight" width="49%" title="Top Languages (%)" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P15c1n4&theme=tokyonight" width="39%" />
   </div>
-
-  --- 
-   <div width="100%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P15c1n4&theme=tokyonight" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P15c1n4&theme=tokyonight" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P15c1n4&theme=tokyonight" width="98%" />
-  </div>
-<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P15c1n4&theme=tokyonight" width="49%">-->
-
 </div>
 
 ---
