@@ -29,6 +29,66 @@
 ### 🧰 Tech Stack
 
 <div align="center">
+<table>
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/><br>Java
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="45"/><br>Spring
+</td>
+
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/473791" height="45"/><br>Netty
+</td>
+
+<td align="center">
+<img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="45"/><br>Assembly
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="45"/><br>Bash
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/><br>HTML5
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/><br>CSS3
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/><br>JS
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="45"/><br>MariaDB
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/><br>MySQL
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/><br>SQL Server
+</td>
+
+</tr>
+</table>
+</div>
+
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" height="45" alt="Spring Boot FrameWork" title="Spring Boot FrameWork" />
@@ -53,7 +113,7 @@
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" title="SQL Server" />
   <img width="12"/>
-</div>
+</div> -->
 
 ---
 ### 💻 IDEs
