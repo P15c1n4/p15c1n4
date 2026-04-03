@@ -138,10 +138,13 @@
 
 ### 📫 Contact Me
 
-<p align="left">
-  <a href="https://discord.com/users/193513615242821632" target="_blank">
+[![Discord Badge](https://img.shields.io/badge/Discord-Piscina-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/193513615242821632)
+<!--<p align="left">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-Piscina-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
-</p>
+</p>-->
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/193513615242821632?hideActivity=true&showDisplayName=true&hideSpotify=true&theme=dark)](https://discord.com/users/193513615242821632)
 
 ---
