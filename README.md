@@ -56,9 +56,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="45"/><br>Bash
 </td>
 
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" height="45"/><br>ActionScript
+</td>
+
+
 </tr>
 
 <tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive/refs/heads/main/Images/Adobe_Flash_Player_32.svg" height="45"/><br>Flash
+</td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/><br>HTML5
@@ -85,6 +94,7 @@
 </td>
 
 </tr>
+
 </table>
 </div>
 
