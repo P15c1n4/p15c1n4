@@ -70,15 +70,15 @@
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/><br>HTML5
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/><br>HTML 5
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/><br>CSS3
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/><br>CSS 3
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/><br>JS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/><br>JavaScript
 </td>
 
 <td align="center">
