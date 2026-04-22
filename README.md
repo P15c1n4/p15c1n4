@@ -19,10 +19,10 @@
 <!--- 🧙‍♂️ I currently work as a software engineer at a small software company.-->
 - 🧙‍♂️ Mago dos Compiuter.
 - 💻 Java Developer.
-- 🍃 Back-end architect with a Spring Boot core, primarily working with MVC, Security, Cloud, Kafka and Data JPA.
-- 🔓 Cryptography and computational mathematics Geek.
-- 🏴‍☠️ My hobby is reverse engineering things I normally don't have permission to and bringing old systems back to life.
-- 🐞 Creating bugs since 2012 (fixing some too... Or not)
+- 🍃 Back-end developer working with object-oriented design, API development, microservices, distributed systems, and event-driven architectures on scalable services.
+- 🔓 Interested in cryptography, DRM, software protection techniques, and defensive systems.
+- 🏴‍☠️ I enjoy reverse engineering systems and bringing legacy software back to life.
+<!--- - 🐞 Creating bugs since 2012 (fixing some too... Or not) -->
 
 ---
 
@@ -121,8 +121,15 @@
 <p align="center">
   <!--<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" title="IntelliJ IDE" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" title="NotePad++" /> -->
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=00eaff"/> 
+  <!-- <img src="https://img.shields.io/badge/IntelliJ_IDEA-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=00eaff"/> 
   <img src="https://img.shields.io/badge/Notepad++-0A0A0A?style=for-the-badge&logo=notepadplusplus&logoColor=7f5af0"/>
+  <img src="https://img.shields.io/badge/Dev--C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JPEXS_FFDec-0A0A0A?style=for-the-badge&logo=adobe&logoColor=FF0000"/>
+  <img src="https://badgen.net/badge/IDE/JPEXS%20FFDec/111111?icon=https://api.iconify.design/simple-icons:adobe.svg"/> -->
+<img src="https://badgen.net/badge/IDE/IntelliJ%20IDEA/FF2030?icon=https://api.iconify.design/simple-icons:intellijidea.svg"/>
+<img src="https://badgen.net/badge/Editor/Notepad++/7C9C00?icon=https://api.iconify.design/simple-icons:notepadplusplus.svg"/>
+<img src="https://badgen.net/badge/IDE/Dev--C++/00203f?icon=https://api.iconify.design/simple-icons:cplusplus.svg"/>
+<img src="https://badgen.net/badge/IDE/JPEXS%20FFDec/87cefa?icon=https://api.iconify.design/simple-icons:adobe.svg"/>
 </p>
 
 ---
@@ -130,7 +137,7 @@
 <div align="l">
   <div width="98%" align="left">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=p15c1n4&layout=compact&langs_count=8&stats_format=percentages&hide_border=true&theme=tokyonight" width="49%" title="Top Languages (%)" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P15c1n4&theme=tokyonight" width="39%" />
+      <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P15c1n4&theme=tokyonight" width="39%" /> -->
   </div>
 </div>
 
