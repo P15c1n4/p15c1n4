@@ -22,19 +22,19 @@
 
 
 
-### 🧠 About me
+### About me
 
 <!--- 🧙‍♂️ I currently work as a software engineer at a small software company.-->
 - 🧙‍♂️ Mago dos Compiuter.
-- 💻 Java Developer.
-- 🍃 Back-end developer working with object-oriented design, API development, microservices, distributed systems, and event-driven architectures on scalable services.
-- 🔓 Interested in cryptography, DRM, software protection techniques, and defensive systems.
-- 🏴‍☠️ I enjoy reverse engineering systems and bringing legacy software back to life.
-<!--- - 🐞 Creating bugs since 2012 (fixing some too... Or not) -->
+- Java Developer.
+- ack-end developer working with object-oriented design, API development, microservices, distributed systems, and event-driven architectures on scalable services.
+- Interested in cryptography, DRM, software protection techniques, and defensive systems.
+- I enjoy reverse engineering systems and bringing legacy software back to life.
+<!--- - Creating bugs since 2012 (fixing some too... Or not) -->
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 <table>
@@ -133,7 +133,7 @@
 </div> -->
 
 ---
-### 💻 IDEs
+### IDEs
 
 <p align="center">
   <!--<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" title="IntelliJ IDE" />
@@ -150,7 +150,7 @@
 </p>
 
 ---
-### 📈 GitHub Stats
+### GitHub Stats
 <div align="l">
   <div width="98%" align="left">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=p15c1n4&layout=compact&langs_count=8&stats_format=percentages&hide_border=true&theme=tokyonight" width="49%" title="Top Languages (%)" />
