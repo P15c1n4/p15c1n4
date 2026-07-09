@@ -27,7 +27,7 @@
 <!--- 🧙‍♂️ I currently work as a software engineer at a small software company.-->
 - 🧙‍♂️ Mago dos Compiuter.
 - Java Developer.
-- ack-end developer working with object-oriented design, API development, microservices, distributed systems, and event-driven architectures on scalable services.
+- Back-end developer working with object-oriented design, API development, microservices, distributed systems, and event-driven architectures on scalable services.
 - Interested in cryptography, DRM, software protection techniques, and defensive systems.
 - I enjoy reverse engineering systems and bringing legacy software back to life.
 <!--- - Creating bugs since 2012 (fixing some too... Or not) -->
